@@ -6,8 +6,8 @@
 
 ## リンク
 
-[Publishing with GitHub Pages, now as easy as 1, 2, 3](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
-[関連ページ](https://ged1959.github.io/site_test/test.html)
+- [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
+- [関連ページ](https://ged1959.github.io/site_test/test.html)
 
 ## 写真
 
