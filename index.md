@@ -12,6 +12,4 @@
 
 ## 動画
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d_XbWY3vTrc" frameborder="0" allowfullscreen></iframe>
-
-<video src="https://www.youtube.com/embed/d_XbWY3vTrc" controls></video>
+<iframe width="300" src="https://www.youtube.com/embed/d_XbWY3vTrc" frameborder="0" allowfullscreen></iframe>
