@@ -15,4 +15,4 @@
 
 ## 動画
 
-<iframe width="300" src="https://www.youtube.com/embed/d_XbWY3vTrc" frameborder="0" allowfullscreen></iframe>
+<iframe width="370" src="https://www.youtube.com/embed/d_XbWY3vTrc" frameborder="0" allowfullscreen></iframe>
