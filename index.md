@@ -17,4 +17,4 @@
 
 ## 動画
 
-<iframe width="360" height="225" src="https://www.youtube.com/embed/d_XbWY3vTrc" frameborder="0" allowfullscreen></iframe>
+<iframe width="350" height="225" src="https://www.youtube.com/embed/d_XbWY3vTrc" frameborder="0" allowfullscreen></iframe>
